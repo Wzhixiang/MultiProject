@@ -18,3 +18,6 @@
                 resolutionStrategy.force 'com.android.support:support-annotations:27.1.1'
             }
         
+#### 效果
+![效果一](https://github.com/Wzhixiang/MultiProject/blob/master/ScreenCapture/one.png)
+![效果二](https://github.com/Wzhixiang/MultiProject/blob/master/ScreenCapture/two.png)
